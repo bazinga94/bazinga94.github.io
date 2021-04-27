@@ -1,12 +1,12 @@
 ---
-title: "swift"
+layout: single
 permalink: /swift/
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "swift"
+author_profile: true
 layouts_gallery:
   - url: /assets/images/logo.png
     image_path: /assets/images/logo.png
     alt: "splash layout example"
-layout: archive
 ---
 
 

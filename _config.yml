@@ -25,7 +25,7 @@ url                      : "https://bazinga940.github.io" # the base hostname & 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bazinga940/bazinga940.github.io" # GitHub username/repo-name e.g.
 
-teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g.
+teaser                   : #"/assets/images/teaser.png" # path of fallback teaser image, e.g.
 logo                     : #"/assets/images/logo.png" # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)

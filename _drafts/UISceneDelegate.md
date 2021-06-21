@@ -75,3 +75,6 @@ iOS13은 scene based 상태 복원 API를 가지고 있다.
 상태를 인코딩하여 창을 다시 만들 수 있다.
 
 NSUserActivity가 뭐지??
+
+* scene 동기화 문제!! 신기하네
+만약 채팅앱을 2개의 scene에 켜두고 
